@@ -3,7 +3,7 @@
 #include <DNSServer.h>
 #include <EEPROM.h>
 
-const char* SSID_NAME = "IndiHome_FreeZone";
+const char* SSID_NAME = "CreateYourSSID";
 
 const byte HTTP_CODE = 200;
 const byte DNS_PORT = 53;
